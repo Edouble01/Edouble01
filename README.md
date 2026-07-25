@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emmanuel C Khalifa</h1>
+<h1 align="center">Hi 👋, I'm Emmanuel Khalifa</h1>
 <p align="center">
 <strong>Aspiring Cloud Engineer and DevOps Enthusiast</strong>
 </p>
@@ -22,7 +22,7 @@ building real-world projects, and continuously improving my technical skills.
 <p align="center">
 <a href="https://github.com/Edouble01"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
 <a href="https://linkedin.com/in/c-emmanuel-khalifa-jr/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-<a href="https://twitter.com/edoublereal"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
+<a href="https://X.com/edoublereal"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
 </p>
 
 ---
@@ -30,4 +30,4 @@ building real-world projects, and continuously improving my technical skills.
 # 🏆 Certifications & Achievements
 | Certification | Provider | Date | Credential |
 |---------------|----------|------|------------|
-| Microsoft Azure Fundamentals (AZ-900) | Microsoft | Aug 2025 | [View Credential](#) |
+| Microsoft Azure Fundamentals (AZ-900) | Microsoft | Aug 2025 |
