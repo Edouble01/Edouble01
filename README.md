@@ -30,4 +30,4 @@ building real-world projects, and continuously improving my technical skills.
 # 🏆 Certifications & Achievements
 | Certification | Provider | Date | Credential |
 |---------------|----------|------|------------|
-| Microsoft Azure Fundamentals (AZ-900) | Microsoft | Jan 2025 | [View Credential](#) |
+| Microsoft Azure Fundamentals (AZ-900) | Microsoft | Aug 2025 | [View Credential](#) |
