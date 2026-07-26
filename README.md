@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Khalifa</h1>
+<h1 align="center">Hi 👋, I'm Emmanuel </h1>
 <p align="center">
 <strong>Aspiring Cloud Engineer and DevOps Enthusiast</strong>
 </p>
 
 <p align="center">
-Welcome to my GitHub profile! I'm passionate about learning new technologies,
+Welcome to my GitHub profile! I am passionate about learning new technologies,sharing and
 building real-world projects, and continuously improving my technical skills.
 </p>
 
@@ -31,3 +31,18 @@ building real-world projects, and continuously improving my technical skills.
 | Certification | Provider | Date | Credential |
 |---------------|----------|------|------------|
 | Microsoft Azure Fundamentals (AZ-900) | Microsoft | Aug 2025 |
+
+# 🎯 2026 Goals
+- ✅ Build 5 real-world cloud projects
+
+- ✅ Contribute to Open Source
+
+- ✅ Earn Cloud Certifications
+
+- ✅ Learn Kubernetes
+
+- ✅ Improve Linux Skills
+
+- ✅ Land a Cloud Engineering / DevOps Role
+
+---
