@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I am passionate about learning new technologies,sh
 building real-world projects, and continuously improving my technical skills.
 </p>
 
----
 # ---
 
 # 👨‍💻 About Me
@@ -74,4 +73,3 @@ Some of my hands-on work includes:
 * 🛠️ **Build and document more real-world technology projects**
 * 📚 **Continue strengthening my cloud, Linux, networking, and DevOps skills**
 
----
